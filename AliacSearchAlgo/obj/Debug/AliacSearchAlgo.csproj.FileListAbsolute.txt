@@ -1,0 +1,9 @@
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+C:\Users\escan\Documents\College\Third Year\First Semester\CS345\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
